@@ -28,7 +28,7 @@ void setup()
   frameRate(60);
   size(1000, 1000);
   if(MAKEGIF){
-    gifExport = new GifMaker(this, "calulatepi.gif");
+    gifExport = new GifMaker(this, "calculatepi.gif");
     gifExport.setRepeat(0);
     gifExport.setQuality(10);
     gifExport.setDelay(200);
