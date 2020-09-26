@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: |
 | ![lifegame](examples/lifegame/lifegame.gif) | ![catenary](examples/catenary/catenary.gif) | ![scalespace](examples/scalespace/scalespace.gif)|![pi](examples/pi/pi.gif)|
 
-| [alignment](examples/alignment/alignment.pde) | [star](examples/star/star.pde) | [ramenoil](examples/ramenoil/ramenoil.pde) | xxx |
+| [alignment](examples/alignment/alignment.pyde) | [star](examples/star/star.pyde) | [ramenoil](examples/ramenoil/ramenoil.pyde) | xxx |
 | :---: | :---: | :---: | :---: |
 | ![alignment](examples/alignment/alignment.gif) | ![star](examples/star/star.gif) | ![ramenoil](examples/ramenoil/ramenoil.gif) | ![catenary](examples/catenary/catenary.gif)
 
